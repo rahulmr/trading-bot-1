@@ -5,7 +5,7 @@ import pandas_ta as ta
 import numpy as np
 import json
 import datetime
-from assets import *
+from pre_processor import *
 
 ################## buy and sell logic 
 
